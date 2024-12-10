@@ -1,7 +1,7 @@
 # Firebase Chat Application
 
 ## Description
- The app utilizes **Firebase Authentication** and **Firestore Database** to implement a chat application that supports user registration, login/logout functionality, and one-on-one messaging. The main goal is to create a usable design and implement the required features.
+This is a Messenger app made for Ios devices using Swift UIKit. The app utilizes **Firebase Authentication** and **Firestore Database** to implement a chat application that supports user registration, login/logout functionality, and one-on-one messaging. The main goal is to create a usable design and implement the required features.
 
 ## Features
 ### Authentication
